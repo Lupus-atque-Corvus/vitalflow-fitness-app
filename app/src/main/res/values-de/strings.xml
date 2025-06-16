@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">VitalFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_training">Training</string>
+    <string name="nav_settings">Einstellungen</string>
+
+    <!-- Training Module -->
+    <string name="training_gym">Fitnessstudio</string>
+    <string name="training_outdoor">Outdoor</string>
+    <string name="training_stretching">Dehnen</string>
+    <string name="training_supplements">Supplemente</string>
+
+    <!-- Gym Module -->
+    <string name="gym_plans">Trainingspläne</string>
+    <string name="gym_exercises">Übungen</string>
+    <string name="gym_add_exercise">Übung hinzufügen</string>
+    <string name="gym_exercise_name">Übungsname</string>
+    <string name="gym_category">Kategorie</string>
+    <string name="gym_sets">Sätze</string>
+    <string name="gym_weight">Gewicht (kg)</string>
+
+    <!-- Training Plans -->
+    <string name="plan_full_body">Ganzkörper</string>
+    <string name="plan_upper_lower">Ober-/Unterkörper</string>
+    <string name="plan_push_pull_legs">Push/Pull/Beine</string>
+    <string name="plan_frequency">Häufigkeit</string>
+    <string name="plan_3x_week">3x/Woche</string>
+    <string name="plan_4x_week">4x/Woche</string>
+    <string name="plan_6x_week">6x/Woche</string>
+
+    <!-- Outdoor Module -->
+    <string name="outdoor_running">Laufen</string>
+    <string name="outdoor_start">Start</string>
+    <string name="outdoor_stop">Stop</string>
+    <string name="outdoor_pause">Pause</string>
+    <string name="outdoor_resume">Fortsetzen</string>
+    <string name="outdoor_distance">Distanz</string>
+    <string name="outdoor_time">Zeit</string>
+    <string name="outdoor_pace">Tempo</string>
+
+    <!-- Stretching Module -->
+    <string name="stretching_exercises">Dehnübungen</string>
+    <string name="stretching_add">Übung hinzufügen</string>
+    <string name="stretching_duration">Dauer</string>
+
+    <!-- Supplements Module -->
+    <string name="supplements_tracking">Supplement-Tracking</string>
+    <string name="supplements_add">Supplement hinzufügen</string>
+    <string name="supplements_manufacturer">Hersteller</string>
+    <string name="supplements_product">Produktname</string>
+    <string name="supplements_dosage">Dosierung (mg)</string>
+    <string name="supplements_time">Einnahmezeit</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Sprache</string>
+    <string name="settings_language_system">Systemstandard</string>
+    <string name="settings_language_en">Englisch</string>
+    <string name="settings_language_de">Deutsch</string>
+    <string name="settings_language_ru">Russisch</string>
+
+    <!-- Common -->
+    <string name="action_save">Speichern</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_back">Zurück</string>
+    <string name="coming_soon">Demnächst verfügbar</string>
+    <string name="placeholder_module">Modul %1$d</string>
+    <string name="placeholder_settings">Einstellungsfunktion %1$d</string>
+
+    <!-- Error Messages -->
+    <string name="error_generic">Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.</string>
+    <string name="error_no_internet">Keine Internetverbindung</string>
+    <string name="error_permission_denied">Berechtigung verweigert</string>
+    <string name="error_invalid_input">Ungültige Eingabe</string>
+</resources>
