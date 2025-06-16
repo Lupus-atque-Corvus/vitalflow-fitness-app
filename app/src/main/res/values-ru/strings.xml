@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">VitalFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_training">Тренировки</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- Training Module -->
+    <string name="training_gym">Тренажерный зал</string>
+    <string name="training_outdoor">На улице</string>
+    <string name="training_stretching">Растяжка</string>
+    <string name="training_supplements">Добавки</string>
+
+    <!-- Gym Module -->
+    <string name="gym_plans">Планы тренировок</string>
+    <string name="gym_exercises">Упражнения</string>
+    <string name="gym_add_exercise">Добавить упражнение</string>
+    <string name="gym_exercise_name">Название упражнения</string>
+    <string name="gym_category">Категория</string>
+    <string name="gym_sets">Подходы</string>
+    <string name="gym_weight">Вес (кг)</string>
+
+    <!-- Training Plans -->
+    <string name="plan_full_body">Все тело</string>
+    <string name="plan_upper_lower">Верх/Низ</string>
+    <string name="plan_push_pull_legs">Жим/Тяга/Ноги</string>
+    <string name="plan_frequency">Частота</string>
+    <string name="plan_3x_week">3 раза/неделю</string>
+    <string name="plan_4x_week">4 раза/неделю</string>
+    <string name="plan_6x_week">6 раз/неделю</string>
+
+    <!-- Outdoor Module -->
+    <string name="outdoor_running">Бег</string>
+    <string name="outdoor_start">Старт</string>
+    <string name="outdoor_stop">Стоп</string>
+    <string name="outdoor_pause">Пауза</string>
+    <string name="outdoor_resume">Продолжить</string>
+    <string name="outdoor_distance">Дистанция</string>
+    <string name="outdoor_time">Время</string>
+    <string name="outdoor_pace">Темп</string>
+
+    <!-- Stretching Module -->
+    <string name="stretching_exercises">Упражнения на растяжку</string>
+    <string name="stretching_add">Добавить упражнение</string>
+    <string name="stretching_duration">Продолжительность</string>
+
+    <!-- Supplements Module -->
+    <string name="supplements_tracking">Учет добавок</string>
+    <string name="supplements_add">Добавить добавку</string>
+    <string name="supplements_manufacturer">Производитель</string>
+    <string name="supplements_product">Название продукта</string>
+    <string name="supplements_dosage">Дозировка (мг)</string>
+    <string name="supplements_time">Время приема</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Язык</string>
+    <string name="settings_language_system">Системный</string>
+    <string name="settings_language_en">Английский</string>
+    <string name="settings_language_de">Немецкий</string>
+    <string name="settings_language_ru">Русский</string>
+
+    <!-- Common -->
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_back">Назад</string>
+    <string name="coming_soon">Скоро</string>
+    <string name="placeholder_module">Модуль %1$d</string>
+    <string name="placeholder_settings">Настройка %1$d</string>
+
+    <!-- Error Messages -->
+    <string name="error_generic">Произошла ошибка. Пожалуйста, попробуйте снова.</string>
+    <string name="error_no_internet">Нет подключения к интернету</string>
+    <string name="error_permission_denied">Доступ запрещен</string>
+    <string name="error_invalid_input">Неверный ввод</string>
+</resources>
